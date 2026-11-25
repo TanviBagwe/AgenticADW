@@ -3,7 +3,7 @@
 # requires-python = ">=3.11"
 # dependencies = [
 #     "python-dotenv",
-# ]
+# ]...
 # ///
 
 import argparse
